@@ -3,9 +3,13 @@ Python script for calling mtDNA variants. DNA is maternally inherited, hence "Ca
 
 How to use:
 ./CallMom.VERSION.py REFERENCE INDIVIDUALS
-Where
+
+Where:
+
 VERSION is the downloaded version of CallMom
+
 The REFERENCE is a single fasta file, such a the rCRS (Cambridge Reference Sequence)
+
 The INDIVIDUALS file has a series of fasta files in the format:
 
 \>sample id
